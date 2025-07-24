@@ -3,8 +3,8 @@
 # GitLab Repository Sync Script for Ubuntu Server
 # Bu script GitLab repolarını her 5 dakikada günceller
 
-# GitLab Token - Buraya gerçek token'ınızı yazın
-GITLAB_TOKEN="your_gitlab_token_here"
+# GitLab Token - README.md'den alınan gerçek token
+GITLAB_TOKEN="glpat-HV1rzwXPUuoVe5axL794"
 
 # GitLab Repository URLs (Python script'ten alınan)
 GITLAB_REPOS=(
